@@ -1,1 +1,1 @@
-document.write(window.location=’/etc/passwd’)
+document.write(document.location)
